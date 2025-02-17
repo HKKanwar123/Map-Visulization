@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.5946, 12.9716]
+            },
+            "properties": {
+                "name": "Bangalore",
+                "population": 8443675,
+                "state": "Karnataka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8777, 19.076]
+            },
+            "properties": {
+                "name": "Mumbai",
+                "population": 12442373,
+                "state": "Maharashtra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.1025, 28.7041]
+            },
+            "properties": {
+                "name": "Delhi",
+                "population": 16787941,
+                "state": "Delhi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.3639, 22.5726]
+            },
+            "properties": {
+                "name": "Kolkata",
+                "population": 4486679,
+                "state": "West Bengal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.2707, 13.0827]
+            },
+            "properties": {
+                "name": "Chennai",
+                "population": 7090000,
+                "state": "Tamil Nadu"
+            }
+        }
+    ]
+}
