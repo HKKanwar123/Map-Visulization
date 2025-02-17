@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [77.55, 13.00],  // Bottom-left corner
+                        [77.65, 13.00],  // Bottom-right corner
+                        [77.65, 13.10],  // Top-right corner
+                        [77.55, 13.10],  // Top-left corner
+                        [77.55, 13.00]   // Closing point (same as first)
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Bangalore Box",
+                "description": "A test rectangle around Bangalore"
+            }
+        }
+    ]
+}
